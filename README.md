@@ -16,3 +16,6 @@ Run via `python3 main.py` command
 - Album Support
 - Delayed sending of posts to the channel
 - Edit post before sending
+
+---
+### Feel free to use code and make it better
